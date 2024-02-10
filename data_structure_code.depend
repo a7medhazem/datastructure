@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1698052001 source:c:\data structure\kian_session_2\main.cpp
+	<iostream>
+	<Array.h>
+
+1698052001 c:\data structure\kian_session_2\include\array.h
+
+1698052006 source:c:\data structure\kian_session_2\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+
+1698744251 source:c:\data structure\kian_session_2&3 (code)\main.cpp
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+
+1698048401 c:\data structure\kian_session_2&3 (code)\include\array.h
+
+1698061425 source:c:\data structure\kian_session_2&3 (code)\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+
+1698743655 c:\data structure\kian_session_2&3 (code)\include\singlelinkedlist.h
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+
+1698744518 source:c:\data structure\kian_session_2&3 (code)\src\singlelinkedlist.cpp
+	"Singlelinkedlist.h"
+	<iostream>
+
+1699021475 source:c:\data structure\kian_session_2&3&4 (code)\main.cpp
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+	"Doublelinkedlist.h"
+
+1698048401 c:\data structure\kian_session_2&3&4 (code)\include\array.h
+
+1699015927 c:\data structure\kian_session_2&3&4 (code)\include\singlelinkedlist.h
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+
+1698061425 source:c:\data structure\kian_session_2&3&4 (code)\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+
+1699022681 source:c:\data structure\kian_session_2&3&4 (code)\src\singlelinkedlist.cpp
+	"Singlelinkedlist.h"
+	<iostream>
+
+1698952399 c:\data structure\kian_session_2&3&4 (code)\include\doublelinkedlist.h
+	<iostream>
+
+1698954669 source:c:\data structure\kian_session_2&3&4 (code)\src\doublelinkedlist.cpp
+	"Doublelinkedlist.h"
+	<iostream>
+
+1699106738 source:c:\data structure\kian_session_2&3&4&5 (code)\main.cpp
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+	"Doublelinkedlist.h"
+
+1698048401 c:\data structure\kian_session_2&3&4&5 (code)\include\array.h
+
+1699015927 c:\data structure\kian_session_2&3&4&5 (code)\include\singlelinkedlist.h
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+
+1699088913 c:\data structure\kian_session_2&3&4&5 (code)\include\doublelinkedlist.h
+	<iostream>
+
+1698061425 source:c:\data structure\kian_session_2&3&4&5 (code)\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+
+1699106661 source:c:\data structure\kian_session_2&3&4&5 (code)\src\singlelinkedlist.cpp
+	"Singlelinkedlist.h"
+	<iostream>
+
+1699106661 source:c:\data structure\kian_session_2&3&4&5 (code)\src\doublelinkedlist.cpp
+	"Doublelinkedlist.h"
+	<iostream>
+
+1700853576 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\main.cpp
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+	"Doublelinkedlist.h"
+	"StackArray.h"
+	"StackLinkedList.h"
+	"QueueArray.h"
+	"QueueLinkedList.h"
+	<bits/stdc++.h>
+
+1700831965 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\array.h
+
+1700836888 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\singlelinkedlist.h
+	<iostream>
+
+1700852151 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\doublelinkedlist.h
+	<iostream>
+
+1700833192 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+
+1700853471 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\doublelinkedlist.cpp
+	"Doublelinkedlist.h"
+	<iostream>
+
+1700850709 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\singlelinkedlist.cpp
+	"Singlelinkedlist.h"
+	<iostream>
+
+1699782155 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\stackarray.h
+	<iostream>
+
+1699782155 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1699800541 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\stacklinkedlist.h
+	<iostream>
+
+1699800990 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\stacklinkedlist.cpp
+	"StackLinkedList.h"
+	<iostream>
+
+1700664263 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\queuearray.h
+
+1700664810 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\queuearray.cpp
+	"QueueArray.h"
+	<iostream>
+
+1700684765 source:c:\data structure\kian_session_2&3&4&5&6&7 (code)\src\queuelinkedlist.cpp
+	"QueueLinkedList.h"
+	<iostream>
+
+1700684765 c:\data structure\kian_session_2&3&4&5&6&7 (code)\include\queuelinkedlist.h
+
+1703937001 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\array.cpp
+	"Array.h"
+	<algorithm>
+	<iostream>
+
+1703937001 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\array.h
+
+1703946702 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\queuearray.cpp
+	"QueueArray.h"
+	<iostream>
+
+1702821399 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\queuearray.h
+
+1703947350 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\queuelinkedlist.cpp
+	"QueueLinkedList.h"
+	<iostream>
+
+1703947071 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\queuelinkedlist.h
+
+1703927901 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\singlelinkedlist.cpp
+	"Singlelinkedlist.h"
+	<iostream>
+
+1703926836 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\singlelinkedlist.h
+	<iostream>
+
+1703940133 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\stacklinkedlist.cpp
+	"StackLinkedList.h"
+	<iostream>
+
+1703939375 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\stacklinkedlist.h
+	<iostream>
+
+1704183337 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\main.cpp
+	<iostream>
+	<Array.h>
+	"Singlelinkedlist.h"
+	"Doublelinkedlist.h"
+	"StackArray.h"
+	"StackLinkedList.h"
+	"QueueArray.h"
+	"QueueLinkedList.h"
+	"tree.h"
+	<bits/stdc++.h>
+
+1703930217 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\doublelinkedlist.h
+	<iostream>
+
+1703939181 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\stackarray.h
+	<iostream>
+
+1703930984 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\doublelinkedlist.cpp
+	"Doublelinkedlist.h"
+	<iostream>
+
+1703939176 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1704182134 source:c:\data structure coding\kian_sessions_ds_all sessions (code)\src\tree.cpp
+	"tree.h"
+	<queue>
+	<iostream>
+
+1706801469 c:\data structure coding\kian_sessions_ds_all sessions (code)\include\tree.h
+	<iostream>
+
