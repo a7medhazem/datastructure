@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
- /*write your code for testing any data structure in this file */
+ /*write your code for testing any data structure  */
 
 
     return 0;
