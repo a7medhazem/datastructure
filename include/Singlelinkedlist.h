@@ -11,7 +11,7 @@ private :
     struct node
     {
         int item;
-        node *next;//البوينتر هيشاور علي نود فلازم من النوع نود
+        node *next;
     };
     int length;//number of element
     node *lift,*right;
