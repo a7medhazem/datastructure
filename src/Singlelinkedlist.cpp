@@ -80,8 +80,8 @@ void Singlelinkedlist::insert_at_position(const size_t & position, const int & e
         {
             now=now->next;
         }
-        newnode->next=now->next;//راح للنوود اللي بعده
-        now->next=newnode;//كده شاور ع النود اللي عايز ادخلها
+        newnode->next=now->next;
+        now->next=newnode;
         length++;
     }
 }
@@ -153,7 +153,7 @@ void Singlelinkedlist::remove_right()
     else if(length==1)
     {
         right=lift=NULL;
-        delete lift; //تحرير مساحه
+        delete lift; 
         delete right;
         length--;
 
@@ -197,7 +197,7 @@ void Singlelinkedlist::remove_at_position(const size_t &index)
             current = current->next;
             after = after->next;
         }
-        after = after->next;//تاني
+        after = after->next;
         current->next=after;
         mydelete = current->next;
         mydelete = NULL;
