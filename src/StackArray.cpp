@@ -8,7 +8,7 @@ StackArray::StackArray( size_t size)//par const
 {
     top=-1;//initial value
     this->size=size;
-    arr=new int[size=20];// عصفوربن بحجر def & par constructor
+    arr=new int[size=20];// def & par constructor
 }
 
 
