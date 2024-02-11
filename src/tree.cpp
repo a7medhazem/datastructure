@@ -57,26 +57,26 @@ void tree::post_order(node *n)//give root to the function
         cout<<n->item<<" ";  //print root
     }
 }
-void tree::insert_element(int element)//40.30.35
+void tree::insert_element(int element)
 {
     node *newnode=new node ;
     newnode->item=element;
     newnode->left=newnode->right=NULL;
-    if(length==0)//40
+    if(length==0)
     {
         root=newnode;
     }
-    else//30
+    else
     {
-        node *current=root;//40
+        node *current=root;
         node *previous;
         while(current!=NULL)
         {
             previous=current;//previous late = 1
 
-            if(element <= current->item)//30<=40
+            if(element <= current->item)
             {
-                current=current->left;//30
+                current=current->left;
             }
             else
             {
@@ -94,7 +94,7 @@ void tree::insert_element(int element)//40.30.35
     }
     length++;
 }
-bool tree::search_element(int element)//35
+bool tree::search_element(int element)
 {
     node *current=root;
     if(length==0)
