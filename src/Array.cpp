@@ -115,7 +115,7 @@ void Array::ressize(int newsize)
         newarr[i]=arr[i];
     }
     delete[] arr;//reallocate memory (heap)
-    arr=newarr;//علشان نتعامل مع القديم تاني عادي وميحصلش ايرورز في الفنكشن التانيه
+    arr=newarr;
     sizee=newsize;
 }
 
