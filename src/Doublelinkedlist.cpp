@@ -119,7 +119,7 @@ void Doublelinkedlist::remove_lift()
     else if(length==1)
     {
         right=lift=NULL;
-        delete lift; //تحرير مساحه
+        delete lift; 
         delete right;
         length--;
 
@@ -143,7 +143,7 @@ void Doublelinkedlist::remove_right()
     else if(length==1)
     {
         right=lift=NULL;
-        delete lift; //تحرير مساحه
+        delete lift; 
         delete right;
         length--;
 
@@ -197,7 +197,7 @@ void Doublelinkedlist::remove_at_position(const size_t &index)//size_t unsigned 
         }
     }
 }
-/*
+/* ==> another way
 void Doublelinkedlist::reversee()
 {
     node*now=right;
